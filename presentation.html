@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Something Something Data</title>
+    <link rel="stylesheet" type="text/css" href="static/style.css">
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <script src="static/remark-latest.min.js"></script>
+    <script src="static/remark.language.js"></script>
+    <script>
+        var hljs = remark.highlighter.engine;
+        var slideshow = remark.create({
+            highlightStyle: 'monokai',
+            highlightLanguage: 'remark',
+            highlightLines: true,
+            sourceUrl: 'presentation.md'
+        });
+    </script>
+  </body>
+</html>
