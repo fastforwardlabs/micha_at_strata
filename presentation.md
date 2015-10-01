@@ -10,13 +10,18 @@ class: center, middle, inverse
 ### http://micha.gd/
 .footnote[mynameisfiber@(github|twitter)]
 
+???
+
+- practical aspects of going from scifi idea to project
+- also some visions of the future
+
 ---
 
 ![](images/ff.svg)
 
 ???
 
-- take algorithms that are becoming useful and explore their uses
+- take algorithms and techniques that are starting to be useful and explore their applications
 - build a prototype, write a report filled with aplications, ethics,
   engineering, commercial, etc..
 
@@ -199,7 +204,6 @@ since 2006"]
 
 ???
 
-- srsly... THINK ABOUT THIS HARD
 - spend time understanding the bias in the data you have
 - spend time understanding the bias in the models you've made
 - spend time trying your application out for different types of people
@@ -235,6 +239,11 @@ since 2006"]
 
 <video src="images/pictograph.mp4" loop="true" autoplay="true"></video>
 
+???
+
+- use image recognition to cluster and understand someone's instagram account
+- put classifications into taxonomy to help make uncertainty results useful
+
 ---
 
 ### case study: pictograph.us
@@ -246,6 +255,11 @@ since 2006"]
 ### case study: pictograph.us
 ## **algorithms?**
 # yes and no
+
+???
+
+- image recognition has some clear paths
+- dealing with error was new territory
 
 ---
 
@@ -358,6 +372,12 @@ since 2006"]
 ## **metrics?**
 # not even the literature could could help
 
+???
+
+- wanted some real metric of 'nutrition' or 'health'
+- so incredibly variable, we settled for simply attempting 'calories', 'carbs'
+  and 'fat' content
+
 ---
 
 ### case study: ~~nutritionometer~~
@@ -402,22 +422,23 @@ since 2006"]
 ---
 
 # step 3: the retrospective
-## Are needs changing?
-
-???
-
-- people will use superpowers in ways you never imagined... should you foster
-  some of them?
-
----
-
-# step 3: the retrospective
 ## Is data changing?
 
 ???
 
 - data rarely stays the same on the internet
 - methods need to adapt
+
+---
+
+# step 3: the retrospective
+## Are needs changing?
+
+???
+
+- people will use superpowers in ways you never imagined... should you foster
+  some of them?
+- speaking of users.... (lead-in)
 
 ---
 
@@ -439,6 +460,13 @@ since 2006"]
 # case study: cliquestream
 
 <video src="images/cliquestream.mp4" loop="true" autoplay="true"></video>
+
+???
+
+- understand how people are communicating by comparing the similarity of ALL
+  WORDS used in various online communities
+- decided to use reddit commits and tweets around popular hashtags
+- ALL CALCULATIONS DONE ON THE FLY
 
 ---
 
@@ -477,8 +505,10 @@ since 2006"]
 
 ???
 
-- All this is well and good, we care about the future!
+- all this is predicated that we have some understanding of future needs and
+  future methods
 - we've all read scifi and wanted that world (unless you read dystopian stuff)
+- let's look at how well we've done at this in the past... (lead-in)
 
 ---
 
@@ -488,6 +518,11 @@ since 2006"]
 
 .footnote[from the 1900's world fair]
 
+???
+
+- nailed it... this is completely true
+- even the interface seems reasonable!
+
 ---
 
 # arguably true?
@@ -495,6 +530,11 @@ since 2006"]
 ![](images/future_arguably.jpg)
 
 .footnote[from the 1900's world fair]
+
+???
+
+- kind of true
+- online classes, wikipedia, technology and project based learning
 
 ---
 
@@ -504,17 +544,30 @@ since 2006"]
 
 .footnote[from the 1900's world fair]
 
+???
+
+- we've all wanted it
+- this is by far the most represented vision of the future from back then --
+  personal flying!
+
 ---
 
 # where does your idea fall in that spectrum?
 
-todo: different example here
-### SUPERPOWER: "computer, make me a sandwich"
+### SUPERPOWER: "computer, draw something nice for me"
+
+???
+
+- some things seem incredibly easy for a person but are hard for a computer
 
 ---
 # where does your idea fall in that spectrum?
 
 ### SUPERPOWER: "computer, summarize the internet for me"
+
+???
+
+- some things are incredibly hard for a person but are easy for a computer
 
 ---
 
